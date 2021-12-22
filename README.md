@@ -11,6 +11,10 @@
 ```bash
 go get github.com/incogbyte/gospf
 
+# get from releases
+
+https://github.com/incogbyte/gospf/releases/tag/v1.0
+
 ```
 
 ### Usage
