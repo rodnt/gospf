@@ -1,11 +1,5 @@
 ## gospf
 
-
-### Example
-
-![gospf.gif](gospf.gif)
-
-
 ### Install
 
 ```bash
