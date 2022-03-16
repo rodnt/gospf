@@ -101,7 +101,7 @@ func asn_details(raw_ip string) {
 func main() {
 
 	var domain = ""
-	flag.StringVar(&domain, "d", "", "domain name to search for: ex: incogbyte.com")
+	flag.StringVar(&domain, "d", "", "domain name to search for: ex: example.com")
 	flag.Parse()
 
 	if domain == "" {
