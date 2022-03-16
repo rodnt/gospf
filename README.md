@@ -3,11 +3,11 @@
 ### Install
 
 ```bash
-go get github.com/incogbyte/gospf
+go get github.com/rodnt/gospf
 
 # get from releases
 
-https://github.com/incogbyte/gospf/releases/tag/v1.0
+https://github.com/rodnt/gospf/releases/tag/v1.0
 
 ```
 
